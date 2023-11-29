@@ -1,7 +1,6 @@
-# 🌐 WIFI-PURPLE 🌐
-
 [![EmreKybs](https://img.shields.io/badge/MadeBy-EmreKybs-purple)
 
+# 🌐 WIFI-PURPLE 🌐
 A Automate A Automate script for wifi hacking
 
 # 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡

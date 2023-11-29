@@ -3,8 +3,11 @@
 # 🌐 WIFI-PURPLE 🌐
 A Automate A Automate script for wifi hacking
 
-# 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡
-    $ sudo ./install.sh
+# 𝗜nstallation
+     git clone https://github.com/emrekybs/Wifi-Purple.git
+     cd Wifi-Purple
+     sudo ./install.sh
+     python3 wifi-purple.py
   
 <img src="https://github.com/emrekybs/wifi-purple/blob/main/imge.png">
 

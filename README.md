@@ -1,7 +1,7 @@
 [![EmreKybs](https://img.shields.io/badge/MadeBy-EmreKybs-purple)
 
 # 🌐 WIFI-PURPLE 🌐
-A Automate A Automate script for wifi hacking
+A Automate script for wifi hacking
 
 # 𝗜nstallation
      git clone https://github.com/emrekybs/Wifi-Purple.git

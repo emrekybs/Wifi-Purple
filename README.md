@@ -4,7 +4,7 @@
 This Python script, titled "WIFI-PURPLE," is a network tool designed for WiFi security testing and hacking. 
 It provides a user-friendly command-line interface and utilizes popular network tools to perform various wireless network-related tasks. 
 
-<img src="https://github.com/emrekybs/Wifi-Purple/blob/main/wifi%20purple.png">
+<img src="https://github.com/emrekybs/Wifi-Purple/blob/main/wifi-purple.png">
 
 # 𝗜nstallation
      git clone https://github.com/emrekybs/Wifi-Purple.git

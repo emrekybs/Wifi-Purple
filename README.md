@@ -1,4 +1,4 @@
-[![EmreKybs](https://img.shields.io/badge/MadeBy-Angelus-purple)
+[![EmreKybs](https://img.shields.io/badge/MadeBy-Emrekybs-purple)
 
 # 🌐 WIFI-PURPLE 🌐 Automate script for wifi hacking
 This Python script, titled "WIFI-PURPLE," is a network tool designed for WiFi security testing and hacking. 

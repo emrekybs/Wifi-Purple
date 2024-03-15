@@ -7,7 +7,7 @@ It provides a user-friendly command-line interface and utilizes popular network 
 <img src="https://github.com/emrekybs/Wifi-Purple/blob/main/wifi-purple.png">
 
 # 𝗜nstallation
-     git clone https://github.com/emrekybs/Wifi-Purple.git
+     git clone https://github.com/bloodbane0/Wifi-Purple.git
      cd Wifi-Purple
      sudo ./install.sh
      python3 wifi-purple.py
